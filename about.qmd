@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am a 3rd year student at the University of Toronto pursuing Applied Maths for Finance and Economics. I am interested in the financial industry as I enjoy its multi-faceted, and I believe it plays to my many strengths. I am currently interning at a search fund, and interned at a venture capital fund last summer. I am a part of two clubs on campus: Rational Capital Investment Fund (RCIF) and Global Research and Consulting Group (GRC). I am an international student whose grown up in Mauritius and Dubai.
+I am a 3rd year student at the University of Toronto pursuing Applied Maths for Finance and Economics. I am interested in the financial industry as I enjoy its multi-faceted nature, and I believe it plays to my many strengths. I am currently interning at a search fund, and interned at a venture capital fund last summer. I am a part of two clubs on campus: Rational Capital Investment Fund (RCIF) and Global Research and Consulting Group (GRC). I am an international student whose grown up in Mauritius and Dubai.
 
 I have written an article as part of GRC on [Renewable Energy Investing](https://insights.grcglobalgroup.com/renewable-energy-investing-how-investors-can-maximise-returns-while-saving-the-planet-2/).
 
