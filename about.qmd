@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-Hi, I'm Krishiv. I am a 3rd year student at the University of Toronto pursuing Applied Maths for Finance and Economics. I am interested in the financial industry as I enjoy its multi-faceted, and I believe it plays to my many strengths. I am currently interning at a search fund, and interned at a venture capital fund last summer. I am a part of two clubs on campus: Rational Capital Investment Fund (RCIF) and Global Research and Consulting Group (GRC). I am an international student whose grown up in Mauritius and Dubai.
-
-I have written two papers and done multiple projects as part of my STA302 course: [GitHub](https://github.com/Krishiv-J)
+I am a 3rd year student at the University of Toronto pursuing Applied Maths for Finance and Economics. I am interested in the financial industry as I enjoy its multi-faceted, and I believe it plays to my many strengths. I am currently interning at a search fund, and interned at a venture capital fund last summer. I am a part of two clubs on campus: Rational Capital Investment Fund (RCIF) and Global Research and Consulting Group (GRC). I am an international student whose grown up in Mauritius and Dubai.
 
 I have written an article as part of GRC on [Renewable Energy Investing](https://insights.grcglobalgroup.com/renewable-energy-investing-how-investors-can-maximise-returns-while-saving-the-planet-2/).
+
+I have written two papers as part of my STA302 course: [Paper 1](https://github.com/Krishiv-J/Toronto-Refugee-Shelter/blob/main/outputs/paper/paper.pdf), [Paper 2](https://github.com/AbbassSleiman/COVID19-US-School-Closures/blob/main/paper/paper.pdf)

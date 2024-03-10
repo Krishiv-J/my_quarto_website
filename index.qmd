@@ -3,3 +3,5 @@ title: "Welcome to my Website"
 ---
 
 Hi, my name is Krishiv, and I'm a third year undergraduate student at the University of Toronto. This is my personal website.
+
+Here is my Resume : [Download Resume](https://github.com/Krishiv-J/my_quarto_website/raw/master/Krishiv's%20Resume.pdf)
